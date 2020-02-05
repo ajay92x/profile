@@ -1,15 +1,29 @@
-let projectJSON = [{
+let projectJSON = [
+    {
+        "href": "https://citynative.matrixmarketers.com/",
+        "title": "City Native",
+        "type": "Website",
+        "img": "img/portfolio/citynative.png",
+        "isLink": true
+    },
+    {
+        "href": "https://dwellable.matrixmarketers.com/",
+        "title": "Dwellable",
+        "type": "Website",
+        "img": "img/portfolio/dwellable.png",
+        "isLink": true
+    },{
     "href": "https://homejab.com/",
     "title": "Homejab",
     "type": "Website",
     "img": "img/portfolio/homejab.png",
-    "isLink": false
+    "isLink": true
 }, {
     "href": "https://citrus.matrixmarketers.com/",
     "title": "CitrusCow",
     "type": "Website",
     "img": "img/portfolio/citruscow.png",
-    "isLink": false
+    "isLink": true
 }, {
     "href": "img/portfolio/monero.png",
     "title": "Monero",
